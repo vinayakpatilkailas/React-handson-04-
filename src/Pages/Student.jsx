@@ -14,7 +14,7 @@ const Student = ()  =>{
         <th>Change Details</th>
     </tr>
     <tr>
-        <td>Neelesh Ranja</td>
+        <td>Neelesh Ranjan</td>
         <td>EA13</td>
         <td>Full Stack Developer</td>
         <td>24</td>
